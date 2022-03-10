@@ -31,4 +31,5 @@ input[type="text"].select2-search__field {line-height: 1;border-radius: 0;}
 .wp-customizer li:not(.customize-control-sidebar_block_editor) h1, .wp-customizer li:not(.customize-control-sidebar_block_editor) h2, .wp-customizer li:not(.customize-control-sidebar_block_editor) h3, .wp-customizer li:not(.customize-control-sidebar_block_editor) h4, .wp-customizer li:not(.customize-control-sidebar_block_editor) h5, .wp-customizer li:not(.customize-control-sidebar_block_editor) h6 {font-weight: 600;}
 .block-list-appender {margin-bottom: 20px;}
 .block-editor-block-inspector .block-editor-block-card {margin-top: 12px;}
-.customize-widgets-layout__inspector .components-circular-option-picker__option::after {box-shadow: none;position: unset;}
+.components-circular-option-picker__option-wrapper::before {background: unset;}
+.block-editor-panel-color-gradient-settings .components-circular-option-picker__option-wrapper {position: relative;}

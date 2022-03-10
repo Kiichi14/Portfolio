@@ -655,3 +655,4 @@ input[type=color]::-webkit-color-swatch {border: none;}
 .ast-align-content-space-around {align-content: space-around;}
 .ast-align-content-stretch {align-content: stretch;}
 .ast-flex-grow-1 {flex-grow: 1;}
+.ast-icon.icon-search {z-index: 4;}

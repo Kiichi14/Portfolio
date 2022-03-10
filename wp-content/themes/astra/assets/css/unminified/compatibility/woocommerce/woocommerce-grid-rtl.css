@@ -658,3 +658,4 @@ button.pswp__button--zoom:hover {background-position: -88px 0;}
 .wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-onsale {min-width: 3em;min-height: 3em;line-height: 3em;padding: 0;font-size: 1em;font-weight: normal;text-transform: capitalize;position: absolute;text-align: center;border-radius: 100%;z-index: 9;top: 0;left: 15px;right: auto;margin: -.5em 0 0 -.5em;}
 .widget_product_categories .children {padding-right: 20px;}
 @supports (-moz-appearance: none) {.sidebar-main .widget_product_search .search-field {width: 60%;}}
+.wc-block-product-categories-list li {padding-right: 15px;}
