@@ -1,3 +1,14 @@
+.elementor-9 .elementor-element.elementor-element-d9ca6bc:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-d9ca6bc > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #000;}
+.elementor-9 .elementor-element.elementor-element-d9ca6bc {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-9 .elementor-element.elementor-element-d9ca6bc > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-9 .elementor-element.elementor-element-4192986 .site-menu.show-nav {width: 270px;}
+.elementor-9 .elementor-element.elementor-element-4192986 .offcanvas.align-icon-right a i {margin-left: 0px;}
+.elementor-9 .elementor-element.elementor-element-4192986 .offcanvas.align-icon-right a svg {margin-left: 0px;}
+.elementor-9 .elementor-element.elementor-element-4192986 .offcanvas.align-icon-left a i {margin-right: 0px;}
+.elementor-9 .elementor-element.elementor-element-4192986 .offcanvas.align-icon-left a svg {margin-right: 0px;}
+.elementor-9 .elementor-element.elementor-element-4192986 .offcanvas {text-align: right;}
+.elementor-9 .elementor-element.elementor-element-4192986 .site-menu {text-align: center;}
+.elementor-9 .elementor-element.elementor-element-4192986 .offcanvas .canvas-btn {padding: 10px 10px 10px 10px;background-color: rgba(0,0,0,0);}
 .elementor-9 .elementor-element.elementor-element-52154b8:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-52154b8 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: var(--e-global-color-376b1fa);}
 .elementor-9 .elementor-element.elementor-element-52154b8 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-9 .elementor-element.elementor-element-52154b8 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -80,11 +91,8 @@
 .elementor-9 .elementor-element.elementor-element-fc3b439:hover > .elementor-element-populated {background-color: #000;}
 .elementor-9 .elementor-element.elementor-element-edc22d3.elementor-view-stacked .elementor-icon {background-color: #fff;}
 .elementor-9 .elementor-element.elementor-element-edc22d3.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-edc22d3.elementor-view-default .elementor-icon {fill: #fff;color: #fff;border-color: #fff;}
-.elementor-9 .elementor-element.elementor-element-edc22d3.elementor-position-right .elementor-icon-box-icon {margin-left: 5px;}
-.elementor-9 .elementor-element.elementor-element-edc22d3.elementor-position-left .elementor-icon-box-icon {margin-right: 5px;}
-.elementor-9 .elementor-element.elementor-element-edc22d3.elementor-position-top .elementor-icon-box-icon {margin-bottom: 5px;}
+.elementor-9 .elementor-element.elementor-element-edc22d3 {--icon-box-icon-margin: 5px;}
 .elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon {font-size: 35px;}
-.elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon-box-title {margin-bottom: 5px;color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon-box-description {color: var(--e-global-color-text);font-family: var(--e-global-typography-e335add-font-family),Sans-serif;font-size: var(--e-global-typography-e335add-font-size);font-weight: var(--e-global-typography-e335add-font-weight);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
@@ -92,11 +100,8 @@
 .elementor-9 .elementor-element.elementor-element-e6edf60:hover > .elementor-element-populated {background-color: #000;}
 .elementor-9 .elementor-element.elementor-element-05f7e33.elementor-view-stacked .elementor-icon {background-color: #fff;}
 .elementor-9 .elementor-element.elementor-element-05f7e33.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-05f7e33.elementor-view-default .elementor-icon {fill: #fff;color: #fff;border-color: #fff;}
-.elementor-9 .elementor-element.elementor-element-05f7e33.elementor-position-right .elementor-icon-box-icon {margin-left: 5px;}
-.elementor-9 .elementor-element.elementor-element-05f7e33.elementor-position-left .elementor-icon-box-icon {margin-right: 5px;}
-.elementor-9 .elementor-element.elementor-element-05f7e33.elementor-position-top .elementor-icon-box-icon {margin-bottom: 5px;}
+.elementor-9 .elementor-element.elementor-element-05f7e33 {--icon-box-icon-margin: 5px;}
 .elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon {font-size: 35px;}
-.elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon-box-title {margin-bottom: 5px;color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon-box-description {color: var(--e-global-color-text);font-family: var(--e-global-typography-e335add-font-family),Sans-serif;font-size: var(--e-global-typography-e335add-font-size);font-weight: var(--e-global-typography-e335add-font-weight);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
@@ -111,11 +116,8 @@
 .elementor-9 .elementor-element.elementor-element-dc0d4de:hover > .elementor-element-populated {background-color: #000;}
 .elementor-9 .elementor-element.elementor-element-74766fd.elementor-view-stacked .elementor-icon {background-color: #fff;}
 .elementor-9 .elementor-element.elementor-element-74766fd.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-74766fd.elementor-view-default .elementor-icon {fill: #fff;color: #fff;border-color: #fff;}
-.elementor-9 .elementor-element.elementor-element-74766fd.elementor-position-right .elementor-icon-box-icon {margin-left: 10px;}
-.elementor-9 .elementor-element.elementor-element-74766fd.elementor-position-left .elementor-icon-box-icon {margin-right: 10px;}
-.elementor-9 .elementor-element.elementor-element-74766fd.elementor-position-top .elementor-icon-box-icon {margin-bottom: 10px;}
+.elementor-9 .elementor-element.elementor-element-74766fd {--icon-box-icon-margin: 10px;}
 .elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon {font-size: 35px;}
-.elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon-box-title {margin-bottom: 5px;color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon-box-description {color: var(--e-global-color-text);font-family: var(--e-global-typography-e335add-font-family),Sans-serif;font-size: var(--e-global-typography-e335add-font-size);font-weight: var(--e-global-typography-e335add-font-weight);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
@@ -125,11 +127,8 @@
 .elementor-9 .elementor-element.elementor-element-7a7e4e6:hover > .elementor-element-populated {background-color: #000;}
 .elementor-9 .elementor-element.elementor-element-bfe872c.elementor-view-stacked .elementor-icon {background-color: #fff;}
 .elementor-9 .elementor-element.elementor-element-bfe872c.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-bfe872c.elementor-view-default .elementor-icon {fill: #fff;color: #fff;border-color: #fff;}
-.elementor-9 .elementor-element.elementor-element-bfe872c.elementor-position-right .elementor-icon-box-icon {margin-left: 10px;}
-.elementor-9 .elementor-element.elementor-element-bfe872c.elementor-position-left .elementor-icon-box-icon {margin-right: 10px;}
-.elementor-9 .elementor-element.elementor-element-bfe872c.elementor-position-top .elementor-icon-box-icon {margin-bottom: 10px;}
+.elementor-9 .elementor-element.elementor-element-bfe872c {--icon-box-icon-margin: 10px;}
 .elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon {font-size: 35px;}
-.elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon-box-title {margin-bottom: 5px;color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon-box-description {color: var(--e-global-color-text);font-family: var(--e-global-typography-e335add-font-family),Sans-serif;font-size: var(--e-global-typography-e335add-font-size);font-weight: var(--e-global-typography-e335add-font-weight);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
@@ -143,6 +142,7 @@
 .elementor-9 .elementor-element.elementor-element-35fab07 .elementor-heading-title {color: #0131b4;font-family: var(--e-global-typography-a57b9bb-font-family),Sans-serif;font-size: var(--e-global-typography-a57b9bb-font-size);font-weight: var(--e-global-typography-a57b9bb-font-weight);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
 .elementor-9 .elementor-element.elementor-element-da5086e .eael-filterable-gallery-item-wrap .eael-gallery-grid-item .gallery-item-thumbnail-wrap {height: 300px;}
 .elementor-9 .elementor-element.elementor-element-da5086e .gallery-item-caption-wrap {transition: 500ms;}
+.elementor-9 .elementor-element.elementor-element-da5086e .eael-filterable-gallery-loadmore {text-align: center;}
 .elementor-9 .elementor-element.elementor-element-da5086e .eael-filter-gallery-wrapper {background-color: #232323;border-radius: 0px;}
 .elementor-9 .elementor-element.elementor-element-da5086e .eael-filter-gallery-control ul li.control {color: #444;}
 .elementor-9 .elementor-element.elementor-element-da5086e .eael-filter-gallery-control ul > li.control {border-radius: 0px;}
@@ -157,6 +157,9 @@
 .elementor-9 .elementor-element.elementor-element-da5086e .gallery-item-caption-wrap .gallery-item-buttons > a span {background: #232323;color: #fff;height: 50px;line-height: 50px;width: 50px;font-size: 18px;border-radius: 100px;transition: 300ms;}
 .elementor-9 .elementor-element.elementor-element-da5086e .gallery-item-caption-wrap .gallery-item-buttons > a span img {height: 18px;width: 18px;}
 .elementor-9 .elementor-element.elementor-element-da5086e .gallery-item-caption-wrap .gallery-item-buttons > a span:hover {background: #0131b4;color: #fff;border-radius: 100px;}
+.elementor-9 .elementor-element.elementor-element-da5086e .eael-gallery-load-more {background-color: #333;color: #fff;}
+.elementor-9 .elementor-element.elementor-element-da5086e .eael-gallery-load-more .eael-filterable-gallery-load-more-icon {font-size: 15px;}
+.elementor-9 .elementor-element.elementor-element-da5086e .eael-gallery-load-more img.eael-filterable-gallery-load-more-icon {height: 15px;width: 15px;}
 .elementor-9 .elementor-element.elementor-element-e91cdc8 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-9 .elementor-element.elementor-element-e91cdc8:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-e91cdc8 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #232323;}
 .elementor-9 .elementor-element.elementor-element-e91cdc8 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 80px 0px 80px 0px;}
@@ -166,29 +169,20 @@
 .elementor-9 .elementor-element.elementor-element-f96b1dc > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-9 .elementor-element.elementor-element-d80ee60.elementor-view-stacked .elementor-icon {background-color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-d80ee60.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-d80ee60.elementor-view-default .elementor-icon {fill: #0131b4;color: #0131b4;border-color: #0131b4;}
-.elementor-9 .elementor-element.elementor-element-d80ee60.elementor-position-right .elementor-icon-box-icon {margin-left: 16px;}
-.elementor-9 .elementor-element.elementor-element-d80ee60.elementor-position-left .elementor-icon-box-icon {margin-right: 16px;}
-.elementor-9 .elementor-element.elementor-element-d80ee60.elementor-position-top .elementor-icon-box-icon {margin-bottom: 16px;}
+.elementor-9 .elementor-element.elementor-element-d80ee60 {--icon-box-icon-margin: 16px;}
 .elementor-9 .elementor-element.elementor-element-d80ee60 .elementor-icon {font-size: 25px;}
-.elementor-9 .elementor-element.elementor-element-d80ee60 .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-d80ee60 .elementor-icon-box-title {color: #fff;}
 .elementor-9 .elementor-element.elementor-element-d80ee60 .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-d80ee60 .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-a357e31.elementor-view-stacked .elementor-icon {background-color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-a357e31.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-a357e31.elementor-view-default .elementor-icon {fill: #0131b4;color: #0131b4;border-color: #0131b4;}
-.elementor-9 .elementor-element.elementor-element-a357e31.elementor-position-right .elementor-icon-box-icon {margin-left: 16px;}
-.elementor-9 .elementor-element.elementor-element-a357e31.elementor-position-left .elementor-icon-box-icon {margin-right: 16px;}
-.elementor-9 .elementor-element.elementor-element-a357e31.elementor-position-top .elementor-icon-box-icon {margin-bottom: 16px;}
+.elementor-9 .elementor-element.elementor-element-a357e31 {--icon-box-icon-margin: 16px;}
 .elementor-9 .elementor-element.elementor-element-a357e31 .elementor-icon {font-size: 25px;}
-.elementor-9 .elementor-element.elementor-element-a357e31 .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-a357e31 .elementor-icon-box-title {color: #fff;}
 .elementor-9 .elementor-element.elementor-element-a357e31 .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-a357e31 .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-1eab147.elementor-view-stacked .elementor-icon {background-color: #0131b4;}
 .elementor-9 .elementor-element.elementor-element-1eab147.elementor-view-framed .elementor-icon, .elementor-9 .elementor-element.elementor-element-1eab147.elementor-view-default .elementor-icon {fill: #0131b4;color: #0131b4;border-color: #0131b4;}
-.elementor-9 .elementor-element.elementor-element-1eab147.elementor-position-right .elementor-icon-box-icon {margin-left: 16px;}
-.elementor-9 .elementor-element.elementor-element-1eab147.elementor-position-left .elementor-icon-box-icon {margin-right: 16px;}
-.elementor-9 .elementor-element.elementor-element-1eab147.elementor-position-top .elementor-icon-box-icon {margin-bottom: 16px;}
+.elementor-9 .elementor-element.elementor-element-1eab147 {--icon-box-icon-margin: 16px;}
 .elementor-9 .elementor-element.elementor-element-1eab147 .elementor-icon {font-size: 25px;}
-.elementor-9 .elementor-element.elementor-element-1eab147 .elementor-icon i {transform: rotate(0deg);}
 .elementor-9 .elementor-element.elementor-element-1eab147 .elementor-icon-box-title {color: #fff;}
 .elementor-9 .elementor-element.elementor-element-1eab147 .elementor-icon-box-title, .elementor-9 .elementor-element.elementor-element-1eab147 .elementor-icon-box-title a {font-family: "Montserrat",Sans-serif;font-size: 20px;font-weight: 600;}
 .elementor-9 .elementor-element.elementor-element-c23cb60 .eael-wpforms label.wpforms-error {display: block !important;}
@@ -222,24 +216,17 @@
 	.elementor-9 .elementor-element.elementor-element-6c3536c .eael-fancy-text-prefix {font-size: 25px;}
 	.elementor-9 .elementor-element.elementor-element-6c3536c .eael-fancy-text-strings, .elementor-9 .elementor-element.elementor-element-6c3536c .typed-cursor {font-size: 25px;}
 	.elementor-9 .elementor-element.elementor-element-f956412 > .elementor-widget-container {margin: -3em -3em -3em -3em;padding: 0px 0px 0px 0px;--e-transform-scale: .5;}
-	.elementor-9 .elementor-element.elementor-element-f956412 {--e-transform-origin-x: center;--e-transform-origin-y: center;width: 100%;max-width: 100%;align-self: flex-start;}
+	.elementor-9 .elementor-element.elementor-element-f956412 {width: 100%;max-width: 100%;--e-transform-origin-x: center;--e-transform-origin-y: center;}
 	.elementor-9 .elementor-element.elementor-element-3819c45 .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-7a5155b {font-size: var(--e-global-typography-e335add-font-size);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-2da7e8e .elementor-button {font-size: var(--e-global-typography-4b1e002-font-size);line-height: var(--e-global-typography-4b1e002-line-height);letter-spacing: var(--e-global-typography-4b1e002-letter-spacing);word-spacing: var(--e-global-typography-4b1e002-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-2e3d702 .elementor-button {font-size: var(--e-global-typography-4b1e002-font-size);line-height: var(--e-global-typography-4b1e002-line-height);letter-spacing: var(--e-global-typography-4b1e002-letter-spacing);word-spacing: var(--e-global-typography-4b1e002-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-c0b2ec3 .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-d9d1539 .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
-	.elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon-box-icon {margin-bottom: 5px;}
 	.elementor-9 .elementor-element.elementor-element-edc22d3 .elementor-icon-box-description {font-size: var(--e-global-typography-e335add-font-size);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
-	.elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon-box-icon {margin-bottom: 5px;}
 	.elementor-9 .elementor-element.elementor-element-05f7e33 .elementor-icon-box-description {font-size: var(--e-global-typography-e335add-font-size);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-2580c1a .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
-	.elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon-box-icon {margin-bottom: 10px;}
 	.elementor-9 .elementor-element.elementor-element-74766fd .elementor-icon-box-description {font-size: var(--e-global-typography-e335add-font-size);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
-	.elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon-box-icon {margin-bottom: 10px;}
 	.elementor-9 .elementor-element.elementor-element-bfe872c .elementor-icon-box-description {font-size: var(--e-global-typography-e335add-font-size);line-height: var(--e-global-typography-e335add-line-height);letter-spacing: var(--e-global-typography-e335add-letter-spacing);word-spacing: var(--e-global-typography-e335add-word-spacing);}
 	.elementor-9 .elementor-element.elementor-element-35fab07 .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
-	.elementor-9 .elementor-element.elementor-element-d68869e .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}
-	.elementor-9 .elementor-element.elementor-element-d80ee60 .elementor-icon-box-icon {margin-bottom: 16px;}
-	.elementor-9 .elementor-element.elementor-element-a357e31 .elementor-icon-box-icon {margin-bottom: 16px;}
-	.elementor-9 .elementor-element.elementor-element-1eab147 .elementor-icon-box-icon {margin-bottom: 16px;}}
+	.elementor-9 .elementor-element.elementor-element-d68869e .elementor-heading-title {font-size: var(--e-global-typography-a57b9bb-font-size);line-height: var(--e-global-typography-a57b9bb-line-height);letter-spacing: var(--e-global-typography-a57b9bb-letter-spacing);word-spacing: var(--e-global-typography-a57b9bb-word-spacing);}}

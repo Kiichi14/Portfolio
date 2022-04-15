@@ -255,7 +255,7 @@
 .elementor-widget-eael-post-grid .eael-entry-title, .elementor-widget-eael-post-grid .eael-entry-title a {font-family: var(--e-global-typography-primary-font-family),Sans-serif;font-weight: var(--e-global-typography-primary-font-weight);}
 .elementor-widget-eael-post-grid .eael-grid-post-excerpt p {font-family: var(--e-global-typography-text-font-family),Sans-serif;font-weight: var(--e-global-typography-text-font-weight);}
 .elementor-widget-eael-post-grid .post-meta-categories li, .elementor-widget-eael-post-grid .post-meta-categories li a {font-family: var(--e-global-typography-text-font-family),Sans-serif;font-weight: var(--e-global-typography-text-font-weight);}
-.elementor-widget-eael-post-timeline .eael-timeline-post-title h2 {font-family: var(--e-global-typography-primary-font-family),Sans-serif;font-weight: var(--e-global-typography-primary-font-weight);}
+.elementor-widget-eael-post-timeline .eael-timeline-post-title * {font-family: var(--e-global-typography-primary-font-family),Sans-serif;font-weight: var(--e-global-typography-primary-font-weight);}
 .elementor-widget-eael-post-timeline .eael-timeline-post-excerpt p {font-family: var(--e-global-typography-text-font-family),Sans-serif;font-weight: var(--e-global-typography-text-font-weight);}
 .elementor-widget-eael-progress-bar .eael-progressbar-title {font-family: var(--e-global-typography-primary-font-family),Sans-serif;font-weight: var(--e-global-typography-primary-font-weight);}
 .elementor-widget-eael-progress-bar .eael-progressbar-count-wrap {font-family: var(--e-global-typography-primary-font-family),Sans-serif;font-weight: var(--e-global-typography-primary-font-weight);}

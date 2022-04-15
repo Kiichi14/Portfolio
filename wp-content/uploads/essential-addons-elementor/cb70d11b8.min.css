@@ -348,7 +348,7 @@ a.eael-gallery-load-more, a.eael-gallery-load-more:hover {text-decoration: none;
 .mfp-iframe-holder .mfp-close, .mfp-image-holder .mfp-close {width: auto;}
 .mfp-zoom-out-cur .mfp-image-holder .mfp-close {cursor: pointer;}
 .mfp-zoom-out-cur .mfp-image-holder .mfp-close:hover {text-decoration: none;}
-button.mfp-close:not(.toggle), button.mfp-arrow:not(.toggle) {background: transparent;}
+button.mfp-close:not(.toggle), button.mfp-arrow:not(.toggle) {background: rgba(0,0,0,0);}
 .eael-wpforms .wpforms-container .wpforms-form input[type=submit], .eael-wpforms .wpforms-container .wpforms-form button[type=submit], .eael-wpforms .wpforms-container .wpforms-form .wpforms-page-button {border: 0;}
 .eael-wpforms .wpforms-container .wpforms-form input[type=submit]:hover, .eael-wpforms .wpforms-container .wpforms-form button[type=submit]:hover, .eael-wpforms .wpforms-container .wpforms-form .wpforms-page-button:hover {border: 0;}
 .eael-wpforms .wpforms-container .wpforms-form input[type=checkbox], .eael-wpforms .wpforms-container .wpforms-form input[type=radio] {padding: 3px;}
